@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292309259318",
+    "project_id": "diet-notes",
+    "storage_bucket": "diet-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292309259318:android:c78dd9e0511c2b53327497",
+        "android_client_info": {
+          "package_name": "com.example.diet_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292309259318-nvlql52d0l4rkrbicrkh21fhussta0ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjAsRzQYvqTDeoVqnXRkuUYN6PAXxLE4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292309259318-nvlql52d0l4rkrbicrkh21fhussta0ke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
