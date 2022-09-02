@@ -23,7 +23,7 @@ class SplashActivity : AppCompatActivity() {
 
         try {
             Log.d("SPLASH",auth.currentUser!!.uid)
-            Toast.makeText(this, "가존 비회원 로그인에 성공 하셨습니다",Toast.LENGTH_LONG).show()
+            Toast.makeText(this, "기존 비회원 로그인에 성공 하셨습니다",Toast.LENGTH_LONG).show()
             Handler().postDelayed({
                 startActivity(Intent(this, MainActivity::class.java))
                 finish()
