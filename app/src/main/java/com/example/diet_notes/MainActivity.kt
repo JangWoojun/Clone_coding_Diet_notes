@@ -56,7 +56,7 @@ class MainActivity : AppCompatActivity() {
             val mDialogView = LayoutInflater.from(this).inflate(R.layout.custom_dialog, null)
             val mBuilder = AlertDialog.Builder(this)
                 .setView(mDialogView)
-                .setTitle("운동 메모 다이얼로그")
+                .setTitle("음식 메모 다이얼로그")
             val mAlerDialog = mBuilder.show()
 
             val DateSelectBTN = mAlerDialog.findViewById<Button>(R.id.dateSelectBTN)
